@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.proj.location"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "location",
+    "packageName": "com.proj.location",
+    "packageFolder": "com/proj/location",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDE4ODk5MDFhNzA0Y2ZiNzNjOWIzOGFmMjU5NWE1N2M2ZWFiYjE5MjcyNjA0YjEzZDQyYTkxYWVmZTQ2OTBjMjJkYWViMWNjOTIxYTliM2E4YWY3Y2RlOTA1NWMyZmJlMTRkZWUyNTRiODA5Y2M5OGIyZTk1MTNlYTI4YTBkYWY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1618998837604,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

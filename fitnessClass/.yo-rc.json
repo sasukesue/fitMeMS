@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.proj.fitnessclass"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "fitnessClass",
+    "packageName": "com.proj.fitnessclass",
+    "packageFolder": "com/proj/fitnessclass",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWUyZmE1ODVmOTg3MjQyMzBmYzFiOTUxODEwMzM0YjA4ZGEzM2NkMWQxNGMwMmM3YmVjNjUwNGRmNjcxYWQ5MDUxOTBhZDczOWM1MTE3ODRiMDZkMWRlNWE4ZGYwOTI2M2MzMDA0Nzc4MjY3MTJhMGFjMGFlYzc1NDZlZThkNDk=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1619007611049,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
